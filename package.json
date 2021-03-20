@@ -1,0 +1,19 @@
+{
+  "name": "api-crif",
+  "version": "1.0.0",
+  "description": "api for crif projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crif",
+    "api"
+  ],
+  "author": "Carles del Rio Frances",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
